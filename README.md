@@ -1,3 +1,3 @@
 # MBO-Fitness
 
-Fitness and Wellness Website for nutrition and consultation
+Fitness and Wellness Website
